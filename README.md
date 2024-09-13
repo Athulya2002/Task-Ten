@@ -53,7 +53,7 @@ This task , named `Task 10`, consists of a simple registration form built with H
    - The CSS code was initially included in `index.html` but was moved to `style.css` for better organization.
    - Ensure `index.html` links to `style.css` using the following line in the `<head>` section:
      ```html
-     <link rel="stylesheet" href=".css">
+     <link rel="stylesheet" href="style.css">
      ```
 
 2. **JavaScript**
