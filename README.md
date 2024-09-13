@@ -1,6 +1,6 @@
-# Task 12 - Registration Form 
+# Task 10 - Registration Form 
 
-This task , named `Task 12`, consists of a simple registration form built with HTML, CSS, and JavaScript. It includes a basic setup for a registration page and a submission page. The project is designed to demonstrate the use of HTML forms, CSS styling, and JavaScript validation.
+This task , named `Task 10`, consists of a simple registration form built with HTML, CSS, and JavaScript. It includes a basic setup for a registration page and a submission page. The project is designed to demonstrate the use of HTML forms, CSS styling, and JavaScript validation.
 
 ## Project Structure
 
